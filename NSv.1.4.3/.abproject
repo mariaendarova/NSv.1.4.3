@@ -1,0 +1,28 @@
+{
+  "ProjectName": "NSv.1.4.3",
+  "ProjectGuid": "6e76a4a7-04f5-479a-91a7-01267c12e023",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NSv143",
+  "DisplayName": "NSv.1.4.3",
+  "Author": "",
+  "Description": "NSv.1.4.3",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.4.3",
+  "Framework": "NativeScript"
+}
